@@ -1,9 +1,0 @@
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.deps.json
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.dll
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.pdb
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.csprojAssemblyReference.cache
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.csproj.CoreCompileInputs.cache
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.AssemblyInfoInputs.cache
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.AssemblyInfo.cs
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.dll
-C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\ReactjsCoreTest.Infastrusture\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.pdb

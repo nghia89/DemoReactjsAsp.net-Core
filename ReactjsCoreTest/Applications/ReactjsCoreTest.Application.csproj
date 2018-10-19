@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AutoMapper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Git-Windows-Minimal" Version="2.19.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data\ReactjsCoreTest.Data.csproj" />
+    <ProjectReference Include="..\ReactjsCoreTest.EF\ReactjsCoreTest.EF.csproj" />
+    <ProjectReference Include="..\ReactjsCoreTest.Infastrusture\ReactjsCoreTest.Infrastrusture.csproj" />
+  </ItemGroup>
+
+</Project>

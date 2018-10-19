@@ -1,0 +1,14 @@
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Data.deps.json
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Data.dll
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Data.pdb
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.dll
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\ReactjsCoreTest.Infrastrusture.pdb
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.csproj.CopyComplete
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.dll
+C:\Users\thanh\OneDrive\Desktop\ReactjsCoreTest\Data\obj\Debug\netcoreapp2.1\ReactjsCoreTest.Data.pdb

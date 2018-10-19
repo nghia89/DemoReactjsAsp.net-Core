@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactjsCoreTest", "ReactjsCoreTest\ReactjsCoreTest.csproj", "{91DAD3C9-C64E-4B71-872E-8EC07974B21C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactjsCoreTest.Application", "Applications\ReactjsCoreTest.Application.csproj", "{6681E708-502B-4C51-BDE4-F86FC4CA34F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactjsCoreTest.Data", "Data\ReactjsCoreTest.Data.csproj", "{EE2E1C72-D228-47C9-AB3A-38DA37528B03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactjsCoreTest.EF", "ReactjsCoreTest.EF\ReactjsCoreTest.EF.csproj", "{32CD6B04-1E94-456D-AC8A-52AFA49DE7BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactjsCoreTest.Infrastrusture", "ReactjsCoreTest.Infastrusture\ReactjsCoreTest.Infrastrusture.csproj", "{4044336B-4456-4AA4-B10D-90D111B39686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DAD3C9-C64E-4B71-872E-8EC07974B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DAD3C9-C64E-4B71-872E-8EC07974B21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DAD3C9-C64E-4B71-872E-8EC07974B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DAD3C9-C64E-4B71-872E-8EC07974B21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6681E708-502B-4C51-BDE4-F86FC4CA34F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6681E708-502B-4C51-BDE4-F86FC4CA34F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6681E708-502B-4C51-BDE4-F86FC4CA34F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6681E708-502B-4C51-BDE4-F86FC4CA34F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2E1C72-D228-47C9-AB3A-38DA37528B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2E1C72-D228-47C9-AB3A-38DA37528B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2E1C72-D228-47C9-AB3A-38DA37528B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2E1C72-D228-47C9-AB3A-38DA37528B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CD6B04-1E94-456D-AC8A-52AFA49DE7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CD6B04-1E94-456D-AC8A-52AFA49DE7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CD6B04-1E94-456D-AC8A-52AFA49DE7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CD6B04-1E94-456D-AC8A-52AFA49DE7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4044336B-4456-4AA4-B10D-90D111B39686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4044336B-4456-4AA4-B10D-90D111B39686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4044336B-4456-4AA4-B10D-90D111B39686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4044336B-4456-4AA4-B10D-90D111B39686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386319D6-052C-4196-AAE1-D86607052BE6}
+	EndGlobalSection
+EndGlobal

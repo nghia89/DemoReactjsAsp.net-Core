@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ReactjsCoreTest.Controllers
 {
-    [Route("api/[controller]")]
+    //[Route("api/[controller]")]
     [Produces("application/json")]
     public class ApiController : Controller
     {

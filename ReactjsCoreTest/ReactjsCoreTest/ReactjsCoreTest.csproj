@@ -22,10 +22,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\src\components\AddProduct.js" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Applications\ReactjsCoreTest.Application.csproj" />
     <ProjectReference Include="..\Data\ReactjsCoreTest.Data.csproj" />
     <ProjectReference Include="..\ReactjsCoreTest.EF\ReactjsCoreTest.EF.csproj" />
     <ProjectReference Include="..\ReactjsCoreTest.Infastrusture\ReactjsCoreTest.Infrastrusture.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\src\components\AddProduct.js" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

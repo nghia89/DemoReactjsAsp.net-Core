@@ -19,7 +19,8 @@ namespace ReactjsCoreTest.Controllers
             _ProductRepository = ProductRepository;
         }
         //GET: api/ApiProduct
-       [HttpGet("[action]")]
+        [HttpGet]
+        [Route("api/ProductApi/Index")]
         public async Task<IActionResult> GetAll()
         {
             var listAll = await _ProductRepository.GetAllAsync();
@@ -30,6 +31,7 @@ namespace ReactjsCoreTest.Controllers
         // GET: api/ApiProduct/5
         //[HttpGet("{id}", Name = "Get")]
         [HttpGet]
+        [Route("api/ProductApi/GetDetail/{id}")]
         public async Task<Product> GetDetails(string id)
         {
             return await _ProductRepository.FindByIdAsync(id);
@@ -37,6 +39,7 @@ namespace ReactjsCoreTest.Controllers
 
         // POST: api/ApiProduct
         [HttpPut]
+        [Route("api/ProductApi/Add")]
         public async Task<IActionResult> Create(Product product)
         {
             await _ProductRepository.InsertAsync(product);
@@ -45,7 +48,7 @@ namespace ReactjsCoreTest.Controllers
         }
 
         // PUT: api/ApiProduct/5
-        [HttpGet]
+        [HttpPut]
         [Route("api/ProductApi/Update")]
         public async Task<IActionResult> Update(Product product)
         {
